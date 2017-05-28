@@ -1,0 +1,10 @@
+set ts=4
+set sw=4
+set sts=4
+set et
+set nu
+set showtabline=2
+set ruler
+syntax on
+au BufRead,BufNewFile *.md set filetype=markdown
+
